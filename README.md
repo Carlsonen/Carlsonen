@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Carlsonen
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... programming
-- 💞️ I’m looking to collaborate on ... programming
+- 🌱 I’m currently learning ... rust
 - 📫 How to reach me ... dont
 
 <!---
