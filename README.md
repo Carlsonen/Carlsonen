@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Carlsonen
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... rust
-- 📫 How to reach me ... dont
+- 🌱 I’m currently learning ... rust and c++
+- 📫 How to reach me ... discord i guess Carlsone#5463
 
-<!---
-Carlsonen/Carlsonen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I try to make a game but I always end up making fractals
